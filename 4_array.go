@@ -17,6 +17,7 @@ func main(){
 	reange := names[1:2];
 	reangeTwo := names[:2];
 	reangeTwo := names[2:];
+	reange = append(reange, 679) //o/p = [3 4 5 679]
 	fmt.Println(reange) //o/p = [4 5]
 	
 }
