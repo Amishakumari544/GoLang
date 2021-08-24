@@ -3,6 +3,6 @@ package main
 import "fmt"
 import "rsc.io/quote"
 
-func main() {
+func basic() {
     fmt.Println(quote.Go())
 }

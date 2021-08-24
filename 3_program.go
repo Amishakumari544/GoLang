@@ -3,10 +3,9 @@ package main
 
 import "fmt"
 
-func main(){
-	//  name := "amisha"
+func arithemetic(){
+	 name := "amisha"
 	// fmt.Printf("%T",name)
-	
 
 	// literal
 	fmt.Printf("%% \n",name)
