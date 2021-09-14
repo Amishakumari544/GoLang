@@ -17,5 +17,6 @@
  %9.2f(width 9, precision 2)
  %9.f(wdth 9, prcision 0)
 
-## Padding
- 
+## Exported names
+ Pizza is an exported name, as is Pi, which is exported from the math package.
+ pizza and pi do not start with a capital letter, so they are not exported.
